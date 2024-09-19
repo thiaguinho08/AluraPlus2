@@ -1,0 +1,15 @@
+<!--comentario-->
+<!DOCTYPE html>
+<html lang="PT-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alura Plus</title>
+</head>
+<body>
+    <section class=" container principal">
+    <h1>com combo+, você pode aproveitar Alura+ e o Alura Língua pro um preço único</h1>
+    <img src="Combo.png" alt="o combo é a junção do alura+ e o alura língua">
+   </section>
+</body>
+</html>
